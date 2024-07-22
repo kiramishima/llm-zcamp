@@ -1,1 +1,9 @@
 Week_2/ollama_files/*
+Workshops/.dlt/
+Workshops/**/__pycache__/
+Workshops/**/*.py[cod]
+Workshops/**/*$py.class
+# ignore duckdb
+Workshops/*.duckdb
+Workshops/*.wal
+Workshops/.lancedb
